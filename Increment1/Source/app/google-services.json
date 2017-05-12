@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "805941978094",
+    "firebase_url": "https://sharebuddy-741fb.firebaseio.com",
+    "project_id": "sharebuddy-741fb",
+    "storage_bucket": "sharebuddy-741fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805941978094:android:44badd50d521f7b5",
+        "android_client_info": {
+          "package_name": "com.example.usgir.sharebuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805941978094-0mpuceov2pt1f6t78486g0k2ptlke6mg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.usgir.sharebuddy",
+            "certificate_hash": "455a4478a1b64d30131032e51b7f36b73cccf39f"
+          }
+        },
+        {
+          "client_id": "805941978094-5t6ir75ceujd8odqc6s2enl6228p9juo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK9dmEZ3LEeavamHnp-d1KZ-QaOlWPorA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805941978094-5t6ir75ceujd8odqc6s2enl6228p9juo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
